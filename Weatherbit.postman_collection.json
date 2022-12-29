@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "fd83a5b2-a571-4c21-a0f7-7a34bc3373a4",
-		"name": "Weatherbit",
+		"name": "Weatherbit-api3",
 		"description": "Collection to test Weatherbit APIs",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
